@@ -10,11 +10,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorberdugo1&layout=compact&bg_color=000000&text_color=ffffff&border_radius=10" alt="Top Languages" />
 </p>
 
-### Contribution Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=victorberdugo1&background=000000&stroke=ffffff&ring=00aaff&fire=00aaff&currStreakNum=ffffff&currStreakLabel=00aaff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
-</p>
-
 
 ---
