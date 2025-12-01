@@ -1,14 +1,59 @@
-# Hello 👋
-
-----
-
-## GitHub Statistics   
-
-### Overall Stats and Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=victorberdugo1&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&bg_color=000000&text_color=ffffff&icon_color=00aaff&border_radius=10" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorberdugo1&layout=compact&bg_color=000000&text_color=ffffff&border_radius=10" alt="Top Languages" />
-</p>
-
+# Hello, I'm Victor 👋
 
 ---
+
+I am an app and game developer with experience in **Unity**, **Android**, and cross-platform software development. Passionate about creating innovative solutions, practical projects, and applications that make an impact.
+
+---
+
+## Portfolio
+
+You can check all my projects and Android apps published on Google Play here:  
+🌐 [My Portfolio](https://victorberdugo1.github.io/)
+
+---
+
+## Featured Projects
+
+- **Cube3D (Raycast 42 project)**  
+  Complete 3D game development, including mechanics, UI/UX, and optimization on C.
+
+- **Video2OpenPoseJSON (Android/MediaPipe/OpenPose)**  
+  Video analysis project using keypoints for animation and motion data.
+
+- **42 Android Apps Published**  
+  Apps and mini-games on Google Play, developed from scratch using Unity, Raylib and Android Studio.
+
+---
+
+## Skills
+
+- **Languages:** C/C++, C#, Java, Kotlin  
+- **Mobile Development:** Kotlin, Android Studio  
+- **Version Control:** Git / GitHub  
+- **Game and App Design:** UI/UX, mobile optimization  
+- **Other:** Basic Python, MediaPipe, OpenPose
+
+---
+
+## Education
+
+- **42 Barcelona** – Innovative and free programming campus  
+  Practical methodology 24/7 preparing for the software and app development job market.
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+<!-- GitHub Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=victorberdugo1&theme=blue-green&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</p>
+
+---
+
+## Contact
+
+- Email: [victorberdugo1@gmail.com](mailto:victorberdugo1@gmail.com)  
+- LinkedIn: [linkedin.com/in/victor-berdugo](https://www.linkedin.com/in/victor-augusto-berdugo-garc%C3%ADa-9a35b9313/)  
+- Portfolio: [victorberdugo1.github.io](https://victorberdugo1.github.io/)
