@@ -41,14 +41,6 @@ You can check all my projects and Android apps published on Google Play here:
 - **42 Barcelona** – Innovative and free programming campus  
   Practical methodology 24/7 preparing for the software and app development job market.
 
----
-
-## GitHub Statistics
-
-<p align="center">
-<!-- GitHub Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=victorberdugo1&theme=blue-green&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</p>
 
 ---
 
